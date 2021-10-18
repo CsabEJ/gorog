@@ -1,10 +1,11 @@
-<!DOCTYPE html>
+<!DOCTYPE html> 
 <html>
     <head>
         <title>Görög filozófia</title>
 
     </head>
     <body>
-        <h1>Csaba</h1>
+        <h1>Csaba</h1> 
+        <h2>Görög épületek</h2>
     </body>
 </html>
