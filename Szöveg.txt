@@ -1,19 +1,4 @@
-<!DOCTYPE html>
-<html lang = "hu">
-    <head>
-        <title>Görög filozófia</title>
-        <meta charset="uft-8">
-        <link rel= "stylesheet" href ="01.css"
-    </head>
-    <body>
-        <header>
-           <b><i>Görög nyelv</i></b>
-           <hr>
-        </header>
-        <div>
-        <h1>JC</h1>
-        <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ex ipsum, ullamcorper sed porta vitae, interdum vitae velit. Ut neque leo, vestibulum ac rhoncus at, tristique nec erat. Nunc ac dui aliquet lacus posuere consequat ac id lacus. Nunc dictum dolor at consequat dictum. Duis nec mollis lectus. Praesent consequat tincidunt ex, nec placerat neque hendrerit ut. Sed bibendum nisi ut nunc commodo sagittis. Mauris blandit erat a metus fermentum dictum. Vivamus non feugiat risus. Quisque vitae elementum magna. Maecenas sed sapien vehicula, tempor mauris ac, convallis felis. Curabitur eu pellentesque magna. Mauris orci sapien, vehicula at purus eu, consequat auctor augue. Sed pulvinar justo vel lorem viverra elementum. Mauris scelerisque arcu varius ullamcorper posuere.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ex ipsum, ullamcorper sed porta vitae, interdum vitae velit. Ut neque leo, vestibulum ac rhoncus at, tristique nec erat. Nunc ac dui aliquet lacus posuere consequat ac id lacus. Nunc dictum dolor at consequat dictum. Duis nec mollis lectus. Praesent consequat tincidunt ex, nec placerat neque hendrerit ut. Sed bibendum nisi ut nunc commodo sagittis. Mauris blandit erat a metus fermentum dictum. Vivamus non feugiat risus. Quisque vitae elementum magna. Maecenas sed sapien vehicula, tempor mauris ac, convallis felis. Curabitur eu pellentesque magna. Mauris orci sapien, vehicula at purus eu, consequat auctor augue. Sed pulvinar justo vel lorem viverra elementum. Mauris scelerisque arcu varius ullamcorper posuere.
 
 Phasellus eget egestas enim. Proin tortor urna, maximus interdum pulvinar id, malesuada at lacus. Morbi blandit viverra diam, a sagittis leo aliquam ac. Fusce accumsan nisi sed nisi mollis facilisis. Aenean vitae lacinia tortor. Nunc vehicula purus odio, vel pellentesque ex ullamcorper sed. Proin et dui nibh. In ut mi a urna placerat volutpat ac sit amet ligula. Ut commodo semper nibh, quis lobortis libero. Mauris a porttitor dui.
 
@@ -22,21 +7,11 @@ Cras dignissim, dolor a ultrices commodo, diam dolor volutpat leo, non iaculis e
 Pellentesque commodo nisl non purus sagittis gravida. Quisque ultrices purus eu faucibus dictum. In hac habitasse platea dictumst. Morbi pellentesque congue pellentesque. Morbi luctus ligula ac purus consequat cursus. Donec euismod quam eros, quis sodales nibh euismod vel. Suspendisse vitae nisi sit amet enim ultricies porta. Praesent sit amet pharetra ex, eu laoreet dui. Donec eu interdum nisl. Nulla facilisi. Nullam pellentesque dapibus lobortis. Quisque faucibus purus enim, a varius leo elementum at. Fusce egestas id purus ornare pellentesque. Curabitur accumsan massa augue, sed varius nibh malesuada sed. Sed id nibh in metus elementum congue. Ut vulputate ex nec hendrerit dignissim.
 
 Suspendisse at tortor ut eros ultricies tincidunt. Donec finibus, elit id tincidunt porta, metus nunc posuere diam, quis lobortis purus ipsum nec dolor. In fringilla scelerisque dui, ut rutrum purus iaculis a. Maecenas semper quam eget mauris egestas tristique. Proin finibus quam sit amet dolor bibendum, sit amet vehicula metus convallis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean et lacus sed augue lacinia fringilla. Nullam ac laoreet diam. Ut eu risus non elit sollicitudin suscipit. Cras malesuada id enim ut scelerisque. Donec laoreet libero ac nulla luctus, ac tempor leo sodales.
-        
-        </p>
-        <img src = "01.jpg" width = "140" height="140" alt= "Görög filozófia" title = "Görög filozófia" >
-        </div> 
-        <h2>Görög nyelv</h2>
-        <p>
-            Phasellus eget egestas enim. Proin tortor urna, maximus interdum pulvinar id, malesuada at lacus. Morbi blandit viverra diam, a sagittis leo aliquam ac. Fusce accumsan nisi sed nisi mollis facilisis. Aenean vitae lacinia tortor. Nunc vehicula purus odio, vel pellentesque ex ullamcorper sed. Proin et dui nibh. In ut mi a urna placerat volutpat ac sit amet ligula. Ut commodo semper nibh, quis lobortis libero. Mauris a porttitor dui.
+
+Phasellus eget egestas enim. Proin tortor urna, maximus interdum pulvinar id, malesuada at lacus. Morbi blandit viverra diam, a sagittis leo aliquam ac. Fusce accumsan nisi sed nisi mollis facilisis. Aenean vitae lacinia tortor. Nunc vehicula purus odio, vel pellentesque ex ullamcorper sed. Proin et dui nibh. In ut mi a urna placerat volutpat ac sit amet ligula. Ut commodo semper nibh, quis lobortis libero. Mauris a porttitor dui.
 
 Cras dignissim, dolor a ultrices commodo, diam dolor volutpat leo, non iaculis enim arcu a lectus. Ut non purus ipsum. Sed vehicula augue hendrerit justo ultrices facilisis. Integer justo eros, pharetra a egestas nec, accumsan non leo. Donec ac magna eget libero convallis imperdiet. Aenean volutpat ullamcorper risus. Nunc vehicula ligula quis ultrices fringilla. Nam ornare mi mauris, vitae placerat urna sagittis a. Praesent ut imperdiet eros, vitae pharetra ante. Vestibulum consectetur cursus elit sed malesuada. Vivamus et est imperdiet, dictum nisl sed, lobortis enim. Aliquam sagittis sem ut porttitor sagittis. Fusce imperdiet, elit vitae sagittis tincidunt, nisi dolor fringilla nibh, eget feugiat massa velit vel ante. Duis eget lacus quis risus semper blandit.
 
 Pellentesque commodo nisl non purus sagittis gravida. Quisque ultrices purus eu faucibus dictum. In hac habitasse platea dictumst. Morbi pellentesque congue pellentesque. Morbi luctus ligula ac purus consequat cursus. Donec euismod quam eros, quis sodales nibh euismod vel. Suspendisse vitae nisi sit amet enim ultricies porta. Praesent sit amet pharetra ex, eu laoreet dui. Donec eu interdum nisl. Nulla facilisi. Nullam pellentesque dapibus lobortis. Quisque faucibus purus enim, a varius leo elementum at. Fusce egestas id purus ornare pellentesque. Curabitur accumsan massa augue, sed varius nibh malesuada sed. Sed id nibh in metus elementum congue. Ut vulputate ex nec hendrerit dignissim.
 
 Suspendisse at tortor ut eros ultricies tincidunt. Donec finibus, elit id tincidunt porta, metus nunc posuere diam, quis lobortis purus ipsum nec dolor. In fringilla scelerisque dui, ut rutrum purus iaculis a. Maecenas semper quam eget mauris egestas tristique. Proin finibus quam sit amet dolor bibendum, sit amet vehicula metus convallis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean et lacus sed augue lacinia fringilla. Nullam ac laoreet diam. Ut eu risus non elit sollicitudin suscipit. Cras malesuada id enim ut scelerisque. Donec laoreet libero ac nulla luctus, ac tempor leo sodales.
-        </p>
-        <img src = "01.jpg" width = "140" height="140" alt= "Görög filozófia" title = "Görög filozófia" >
-    </div>
-    </body>
-</html>
